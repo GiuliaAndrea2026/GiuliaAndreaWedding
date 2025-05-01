@@ -1,0 +1,30 @@
+/* Reset dei margini e padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo del documento */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-bottom: 2px solid #ddd;
+}
+
+header h1 {
+  font-size: 3em;
+  color: #3498db;
+}
+
+header p {
+  font-size
